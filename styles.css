@@ -80,7 +80,7 @@ header>h1{
 
 .choice:hover{
   cursor: pointer;
-  background: red;
+  background: blue;
 }
 
 #action-message{
